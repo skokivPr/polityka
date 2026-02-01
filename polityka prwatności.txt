@@ -1,5 +1,5 @@
 Polityka Prywatności dla rozszerzenia ToolCopy Side Panel
-Data ostatniej aktualizacji: 11 października 2025
+Data ostatniej aktualizacji: 1 lutego 2026
 
 1. Wprowadzenie i Filozofia Prywatności
 
@@ -62,5 +62,6 @@ Całkowite usunięcie danych: Odinstalowanie rozszerzenia z przeglądarki Google
 Wszelkie przyszłe zmiany w niniejszej polityce prywatności zostaną opublikowane wraz z aktualizacją rozszerzenia w Chrome Web Store. Dalsze korzystanie z rozszerzenia po wprowadzeniu zmian oznacza ich akceptację.
 
 9. Kontakt
+
 
 W przypadku pytań dotyczących niniejszej polityki prywatności prosimy o kontakt za pośrednictwem strony rozszerzenia w Chrome Web Store.
